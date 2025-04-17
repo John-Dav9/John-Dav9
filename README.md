@@ -6,7 +6,7 @@
 
 ## 🚀 Mes projets principaux
 
-- 🚗 [Luxe Drive]([https://github.com/John-Dav9/rails-luxe-drive](https://luxedrive-clarabnb-5c4ae19bedba.herokuapp.com/users/sign_in)) : plateforme de location de voitures de luxe (Ruby on Rails)
+- 🚗 [Luxe Drive](https://luxedrive-clarabnb-5c4ae19bedba.herokuapp.com/users/sign_in) : plateforme de location de voitures de luxe (Ruby on Rails)
 - 🍽️ [Miam-Miam](https://github.com/John-Dav9/miam-miam-ai) : générateur de recettes via IA en React
 - 🛒 [C’Empire](https://github.com/John-Dav9/commerce-platform) : e-commerce freelance
 
