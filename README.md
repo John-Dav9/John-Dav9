@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est John Tchomgui !
+# 👋 Salut, moi c’est John David Tchomgui !
 
 🎯 Développeur Web Fullstack en reconversion – React, Ruby on Rails, PostgreSQL  
 🎤 Ancien professeur et journaliste, passionné par la tech et la création de solutions utiles  
