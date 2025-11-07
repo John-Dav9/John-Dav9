@@ -1,25 +1,21 @@
 # 👋 Salut, moi c’est John David Tchomgui !
 
-🎯 Développeur Web Fullstack en reconversion – React, Ruby on Rails, PostgreSQL  
+🎯 **Junior Data Analyst & Web Developer**  
 🎤 Ancien professeur et journaliste, passionné par la tech et la création de solutions utiles  
 🌍 Basé à Bruxelles | Ouvert aux opportunités (emploi ou mission) | Remote friendly
 
 ## 🚀 Mes projets principaux
 
 - 🚗 [Luxe Drive](https://luxedrive-clarabnb-5c4ae19bedba.herokuapp.com/users/sign_in) : plateforme de location de voitures de luxe (Ruby on Rails)
-- 🍽️ [Miam-Miam]: générateur de recettes via IA en React
 - 🛒 [C’Empire] : e-commerce freelance
+- 🗂️ BMW Sales Analysis (2010–2024) project will be published soon.
 
 ## 🛠️ Compétences techniques
-- Frontend : React, JavaScript, HTML, CSS
-- Backend : Ruby on Rails, PostgreSQL
-- Tools : Git, GitHub, Figma, Trello
-
-## 📊 (Coming soon) – Data Projects
-I'm currently expanding into data analysis with Python, SQL, Power BI.
-
-BMW Sales Analysis (2010–2024) project will be published soon.
-
+- **Frontend** : React, JavaScript, HTML, CSS
+- **Backend** : Ruby on Rails, PostgreSQL
+- **Data Analysis**: Python (Pandas, Matplotlib, Seaborn), SQL, Power BI  
+- **Data Modeling**: Data cleaning, Data Warehousing, Dashboarding  
+- **Tools** : Git, GitHub, Figma, Trello
 
 ## 📫 Me contacter
 
