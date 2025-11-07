@@ -11,8 +11,8 @@
 - 🗂️ BMW Sales Analysis (2010–2024) project will be published soon.
 
 ## 🛠️ Compétences techniques
-- **Frontend** : React, JavaScript, HTML, CSS
-- **Backend** : Ruby on Rails, PostgreSQL
+- **Frontend** : Angular, JavaScript, HTML, CSS
+- **Backend** : NestJS, Ruby on Rails, PostgreSQL
 - **Data Analysis**: Python (Pandas, Matplotlib, Seaborn), SQL, Power BI  
 - **Data Modeling**: Data cleaning, Data Warehousing, Dashboarding  
 - **Tools** : Git, GitHub, Figma, Trello
