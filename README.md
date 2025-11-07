@@ -12,6 +12,11 @@
 
 ## 🛠️ Compétences techniques
 
+## 📊 (Coming soon) – Data Projects
+I'm currently expanding into data analysis with Python, SQL, Power BI.
+
+BMW Sales Analysis (2010–2024) project will be published soon.
+
 React | JavaScript | Ruby on Rails | PostgreSQL | Git | Figma | Trello  
 (En cours : .NET | AngularJS | Docker | CI/CD)
 
