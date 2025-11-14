@@ -8,7 +8,7 @@
 
 - 🚗 [Luxe Drive](https://luxedrive-clarabnb-5c4ae19bedba.herokuapp.com/users/sign_in) : plateforme de location de voitures de luxe (Ruby on Rails)
 - 🛒 [C’Empire] : e-commerce freelance
-- 🗂️ BMW Sales Analysis (2010–2024) project will be published soon.
+- 🗂️ [BMW Sales Analysis (2010–2024)](https://github.com/John-Dav9/bmw-sales-analysis) : 
 
 ## 🛠️ Compétences techniques
 - **Frontend** : Angular, JavaScript, HTML, CSS
