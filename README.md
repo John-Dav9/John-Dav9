@@ -26,5 +26,4 @@
 📧 tchomguijohn@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/john-tchomgui)  
 🌐 [Mon GitHub](https://github.com/John-Dav9)
-
 🧰 [Mon Portfolio](john-david-portfolio.web.app)
