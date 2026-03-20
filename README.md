@@ -7,7 +7,7 @@
 ## 🚀 Mes projets principaux
 
 - 🚗 [Luxe Drive](https://github.com/John-Dav9/LuxeDrive) : plateforme de location de voitures de luxe (Ruby on Rails)
-- 🛒 [C’Empire] : e-commerce freelance (ongoing project).Build with NestJs (Backend) and Angular(frontend)
+- 🛒 [C’Empire](https://c-empire-project-ahca.vercel.app/) : e-commerce freelance (ongoing project).Build with NestJs (Backend) and Angular(frontend)
 - 🗂️ [BMW Sales Analysis (2010–2024)](https://github.com/John-Dav9/bmw-sales-analysis) : Web and Data analysis project experiment
 - ⛪ [CMCIEA-FRANCE](cmciea-france.com)Freelance project And institutionnal website for a Church Based in France. (Build with Angular)
 - 🧰 [NG COM](https://portfolio-perso-31ee2.web.app/) Freelance ptoject. A porfolio for a journalist in Cameroon. (Build with Angular)
