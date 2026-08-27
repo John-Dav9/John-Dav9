@@ -11,7 +11,7 @@
 - 🗂️ [BMW Sales Analysis (2010–2024)](https://github.com/John-Dav9/bmw-sales-analysis) : Web and Data analysis project experiment
 - ⛪ [CMCIEA-FRANCE](cmciea-france.com)Freelance project And institutionnal website for a Church Based in France. (Build with Angular)
 - 🧰 [NG COM](https://portfolio-perso-31ee2.web.app/) Freelance ptoject. A porfolio for a journalist in Cameroon. (Build with Angular)
-- 🌏 [My own portfolio](john-david-portfolio.web.app) My own portfolio build with React
+- 🌏 [My own portfolio](john-d.dev) My own portfolio build with React
 
 ## 🛠️ Compétences techniques
 - **Frontend** : Angular, JavaScript, HTML, CSS
