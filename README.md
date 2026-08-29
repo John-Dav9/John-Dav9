@@ -7,7 +7,7 @@ Je cherche une **entreprise formatrice** pour une alternance à l'EFP de Bruxell
 Autorisation de travail valide en Belgique.
 
 J'ai livré en freelance une plateforme Angular / NestJS aujourd'hui en production,
-et je développe un site de commande en ligne pour un restaurant bruxellois.
+et je développe un site de commande en ligne pour un restaurant en région parisienne.
 
 📧 tchomguijohn@gmail.com · [LinkedIn](https://www.linkedin.com/in/jd-tchomgui) · [Portfolio](https://john-d.dev)
 
