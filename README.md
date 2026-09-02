@@ -2,7 +2,7 @@
 
 **Développeur web full-stack — Bruxelles**
 
-Je cherche une **entreprise formatrice** pour une alternance à l'EFP de Bruxelles,
+Je cherche une **entreprise formatrice** pour une alternance,
 à partir d'octobre 2026. Convention de stage, 26 à 30 h/semaine en entreprise.
 Autorisation de travail valide en Belgique.
 
